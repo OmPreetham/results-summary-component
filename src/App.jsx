@@ -1,4 +1,4 @@
-import ResultsSummary from './assets/components/ResultsSummary'
+import ResultsSummary from './components/ResultsSummary'
 
 const App = () => {
   return (
